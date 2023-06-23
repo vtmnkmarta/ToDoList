@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.toDos div {
+    display: flex;
+    padding-top: 20px;
+}
+
+.toDos p {
+    width: 146px;
+}
+
+.toDos button {
+    margin-left: 20px;
+}
